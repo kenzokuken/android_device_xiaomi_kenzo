@@ -1,5 +1,4 @@
 #
-# Copyright (C) 2016 The CyanogenMod Project
 # Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# inherit from common msm8956-common
+# inherit from msm8956-common
 -include device/xiaomi/msm8956-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/xiaomi/kenzo
